@@ -7,8 +7,11 @@ Put here due to requests for the files.
 
 Works for me on NodeMcu-32. So should work fine for the 30-pin ESP32 dev modules, Devkit1 etc.
 
-Tube linked below gives details of how to re-flash the ESP32 using the on-line flash tool, (or you can download the desktop flash tool, found in this repository).
-# However the links in the tube video are for the WRONG factory files, please use the ones here.
+Tube linked below gives details of how to re-flash the ESP32 using the on-line flash tool, 
+
+Or you can use the PC based flash download tool and my PDF guide how to use the PC based program & flash the firmware, both found in this repository.
+
+# NOTE: - the links in the tube video are for the WRONG factory firmware, please use the Factory Flash files found in this repository.
 
 There are two files, I cannot remember which one I used, so try them both, one will work!
 
